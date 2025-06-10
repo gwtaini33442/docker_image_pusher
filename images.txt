@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 polardbx/polardb-x:latest
 redis
+openjdk:8
